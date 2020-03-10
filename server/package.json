@@ -1,0 +1,24 @@
+{
+  "name": "noteserv",
+  "version": "0.1.0",
+  "description": "Notoriously notes app server",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamdsteel/notoriously.git"
+  },
+  "author": "Adam Steel",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/adamdsteel/notoriously/issues"
+  },
+  "homepage": "https://github.com/adamdsteel/notoriously#readme"
+}
